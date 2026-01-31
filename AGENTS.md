@@ -18,6 +18,9 @@ cd flowchart && npm run build
 
 # Run Ralph with Claude Code
 ./ralph.sh --tool claude [max_iterations]
+
+# Run Ralph with Claude Code via Claude Code Router
+./ralph.sh --tool ccr [max_iterations]
 ```
 
 ## Key Files
